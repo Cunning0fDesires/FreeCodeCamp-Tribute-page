@@ -1,0 +1,123 @@
+h1, h3 {
+  text-align: center;
+}
+
+    h1 {
+    font-family: "Vegan Style", sans-serif;
+    font-size: 40px;
+    }
+
+#img-div {
+  background-color: white;
+  border-radius: 15px;
+  margin: 40px auto 60px auto;
+  width: 98%;
+}
+figure {
+  margin: auto;
+  padding: 5px;
+  width: 90%;
+}
+#image {
+  display: block;
+  margin: 40px auto 20px auto;
+  max-width: 100%;
+}
+figcaption {
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 18px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+#tribute-info span {
+	font-weight: 700;
+}
+
+#tribute-info h3 span {
+    color:black;
+}
+
+.well-lg {
+    background-color: #edd1ff;
+    border-radius: 10px;
+}
+
+
+.well-sm {
+  margin: auto;
+  background-color: white;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+ul {
+  margin: auto;
+  max-width: 500px;
+  margin-bottom: 50px;
+}
+
+
+#tribute-info {
+  margin-bottom: 20px;
+}
+.link-text {
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 30px;
+  margin: 0 auto 10px auto;
+  text-align: center;
+  width: 80%;
+}
+
+
+h3 {
+  font-family: "Merriweather", serif;
+  font-size: 25px;
+  margin: 0 auto 10px auto;
+  width: 80%;
+}
+p {
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 20px;
+  text-align: center;
+  margin: 50px;
+}
+
+<!--lol-->
+footer {
+  
+  margin-bottom: 50px;
+}
+
+p1 {
+  font-family: "Vegan Style", Source Sans Pro;
+  font-size: 20px;
+  text-align: left;
+}
+
+blockquote {
+  margin: auto;
+  max-width: 500px;
+}
+
+
+li {
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 20px;
+  margin: 20px 0;
+}
+.link-text {
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 30px;
+  margin: 0 auto 10px auto;
+  text-align: center;
+  width: 80%;
+}
+#tribute-link {
+  text-decoration: none;
+}
+#title {
+  padding: 1px;
+  padding-top: 30px;
+}
+
+
