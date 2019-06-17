@@ -1,15 +1,15 @@
-h1, h3, p {
+h1, h3 {
   text-align: center;
 }
 
-h1 {
-  font-family: "Source Sans Pro", sans-serif;
-  font-size: 40px;
-}
+    h1 {
+    font-family: "Vegan Style", "Source Sans Pro", sans-serif;
+    font-size: 40px;
+    }
 
 #img-div {
   background-color: white;
-  border-radius: 0px;
+  border-radius: 15px;
   margin: 40px auto 60px auto;
   width: 98%;
 }
@@ -38,7 +38,7 @@ figcaption {
 }
 
 .well-lg {
-    background-color: gray;
+    background-color: #edd1ff;
     border-radius: 10px;
 }
 
@@ -53,6 +53,7 @@ figcaption {
 ul {
   margin: auto;
   max-width: 500px;
+  margin-bottom: 50px;
 }
 
 
@@ -77,6 +78,14 @@ h3 {
 p {
   font-family: "Source Sans Pro", sans-serif;
   font-size: 20px;
+  text-align: center;
+  margin: 50px;
+}
+
+<!--lol-->
+footer {
+  
+  margin-bottom: 50px;
 }
 
 p1 {
@@ -110,3 +119,5 @@ li {
   padding: 1px;
   padding-top: 30px;
 }
+
+
